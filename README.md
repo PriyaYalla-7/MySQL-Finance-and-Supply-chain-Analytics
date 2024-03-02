@@ -163,7 +163,7 @@ Presentation Link 👉 [Finance & Supply chain Analytics](https://docs.google.co
                   AND (`sp`.`customer_code` = `pos`.`customer_code`)
                   AND (`sp`.`date` = `pos`.`date`))))
 
-## User defined functions :
+## Stored Procedures :
 ### Finding Forecast accuracy
       CREATE DEFINER=`root`@`localhost` PROCEDURE `get_forecast_accuracy`(in_fiscal_year YEAR)
       BEGIN
