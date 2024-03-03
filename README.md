@@ -6,7 +6,7 @@
 
  ## Problem Statement
 
-Atliq Hardware has launched a project to address performance issues arising from the expansion of Excel files. To combat this challenge, the company wanted a team of data analysts who will leverage MySQL as their database and help analyze data, extract valuable insights and gain an understanding of the company's financial position. 
+Atliq Hardware has launched a project to address performance issues arising from the expansion of Excel files. To combat this challenge, the company wanted a team of data analysts who would leverage MySQL as their database and help analyze data, extract valuable insights and gain an understanding of the company's financial position. 
 The primary objective is to enhance decison making and elevate overall performance.
 
 **My course of action:** &nbsp; Assuming the role of a data analyst, I utilized MySQL as my database platform to tackle targeted inquiries regarding sales market dynamics, market analysis, and customer behavior. My primary objective is to unwrap insights that offer strategic direction and deepens the understanding of market trends and customer preferences.
