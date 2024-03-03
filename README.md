@@ -41,9 +41,9 @@ I formulated SQL queries for the following requests.
 
 -----------------------------------------------------------------------------------------------------------------
 
-***- Take a look at my presentation of queries on my LinkedIn :***
+***- Take a look at my presentation of queries:***
 
-Link 👉 [Finance & Supply chain Analytics](https://www.linkedin.com/posts/priya-susmitha-yalla-0095621b6_finance-and-supply-chain-analytics-query-activity-7170032174346297345-K13Y?utm_source=share&utm_medium=member_desktop)
+Link 👉 [Finance & Supply chain Analytics](https://drive.google.com/file/d/1ypMhMlMkEAwO17DReliJW_0E530Ps9z1/view?usp=sharing)
 
 
 ## User defined functions :
